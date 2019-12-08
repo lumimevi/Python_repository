@@ -2,8 +2,7 @@
 
 Python para iniciantes
 
-Capitulo 1 - Python como Calculadora
-
+Capitulo 1 - Python desde zero
 Capitulo 2 -
 
 Capitulo 3 -
